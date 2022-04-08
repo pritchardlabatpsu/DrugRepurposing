@@ -10,7 +10,7 @@ rm(list=ls())
 
 ## Import data
 
-KIT.df = read.csv("../../../ReferenceFiles/LuciaIC50s/Predicting_Prospective/ProspectiveKITCompiled_090320.csv")
+KIT.df = read.csv("ProspectiveKITCompiled_090320.csv")
 
 ## Aggregate data
 
@@ -21,7 +21,7 @@ KIT.df$genotype[KIT.df$primary=="V560D"&KIT.df$secondary=="V560D"] = "V560D WT"
 
 ## Make predictions (model from Fig 3)
 
-mdls = readRDS("../../Figure3/LogisticRegressionModels.rds")
+mdls = readRDS("LogisticRegressionModels.rds")
 mdl = mdls$eff.alpha
 
 KIT.df$pred.response = predict(mdl,
