@@ -10,12 +10,12 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 ## Loop through files and plot heat maps
 
-path = "../../ReferenceFiles/LuciaIC50s/"
+path = "./"
 
 files = c("AlphaValues_EGFRCompiled_20210729.csv","AlphaValues_KITCompiled_081920.csv")
 
 # Logistic models (see Figure 3)
-mdls = readRDS("../Figure4/LogisticRegressionModels.rds")
+mdls = readRDS("LogisticRegressionModels.rds")
 predictors = c("eff.alpha","free.alpha")
 
 ## Read in and plot data
