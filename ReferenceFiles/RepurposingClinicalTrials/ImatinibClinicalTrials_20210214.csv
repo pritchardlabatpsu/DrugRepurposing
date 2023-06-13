@@ -1,0 +1,33 @@
+Disease,Simplified,Status,Approved,Lowest Dose uM,Phase,Enrollment,Max Dose,NCT
+Ph+ALL,Acute Lymphoblastic Leukemia,Successful,TRUE,0.05,II,54,600 mg QD,NCT00038610
+KIT-Negative Systemic Mastocytosis,Systemic Mastocytosis,Successful,TRUE,0.1,IV,10,400 mg QD,NCT01297777
+Adjuvant Advanced/High Risk Gastrointestinal Stromal Tumor,Repeat Disease,Successful,TRUE,0.1,II,47,400 mg QD,NCT00278876
+Dermatofibrosarcoma Protuberans,Dermatofibrosarcoma Protuberans,Successful,TRUE,1,II,18,400 mg BID,NCT00243191
+Unresectable or Metastatic Malignant Gastrointestinal Stromal Tumor,Gastrointestinal Stromal Tumors,Successful,TRUE,0.1,II,148,600 mg QD,NCT00237185
+"Mucosal or Acral/Lentiginous Melanoma, Stage III/IV",Melanoma,Successful,FALSE,0.01,II,30,400 mg BID,NCT00470470
+Neurofibromatosis (NF1) With Plexiform Neurofibromas,Neurofibromatosis,Failed,FALSE,10,II,36,400 mg BID,"NCT01673009, NCT01140360"
+Sclerodermatous Chronic Graft versus Host Disease,Sclerodermatous Chronic Graft versus Host Disease,Failed,FALSE,2,II,72,400 mg QD,NCT00702689
+Epithelial Ovarian or Primary Peritoneal Carcinoma,Ovarian Cancer,Failed,FALSE,1,II,73,600 mg QD,NCT00510653
+Nephrogenic Systemic Fibrosis,Nephrogenic Systemic Fibrosis,Failed,FALSE,2,II,12,400 mg QD,NCT00677092
+Systemic Sclerosis,Systemic Sclerosis,Failed,FALSE,1,II,30,600 mg QD,NCT00512902
+Pulmonary Arterial Hypertension,Pulmonary Arterial Hypertension,Ongoing,FALSE,0.2,III,202,400 mg QD,"NCT00477269, NCT00902174"
+Relapsed/Refractory T Cell Non-Hodgkin's Lymphoma,T-Cell Non-Hodgkin's Lymphoma,Failed,FALSE,1,II,12,400 mg BID,NCT00684411
+Temozolomide Resistant Progressive Glioblastoma,Progressive Glioma,Failed,FALSE,2.5,III,240,600 mg QD,NCT00154375
+Recurrent/Progressive Grade II Low-Grade Glioma (LGG),Repeat Disease,Failed,FALSE,7.49,II,64,400 mg QD,NCT00615927
+Metastatic Breast Cancer,Breast Cancer,Failed,FALSE,5,II,59,400 mg BID,"NCT00338728, NCT00087152"
+"Locally Advanced, Locally Recurrent, or Metastatic Soft Tissue Sarcoma",Synovial Sarcoma,Failed,FALSE,1,I/II,14,400 mg QD,NCT01281865
+High-Risk Localized Prostate Cancer,Prostate Cancer,Failed,FALSE,1.6,II,39,600 mg QD,NCT00500110
+Locally Advanced or Metastatic Pancreatic Cancer,Pancreatic Cancer,Failed,FALSE,5,II,44,400 mg QD,NCT00161213
+HIV-Related Kaposi's Sarcoma,HIV-Related Kaposi's Sarcoma,Ongoing,FALSE,1,II,30,400 mg QD,NCT00090987
+Recurrent or Progressive Meningioma,Meningioma,Failed,FALSE,10,II,23,600 mg QD,NCT00354913
+Non-Small Cell Lung Cancer,Non-Small-Cell Lung Cancer,Failed,FALSE,2,II,34,600 mg QD,"NCT00408460, NCT01011075"
+Type 1 Diabetes Mellitus (T1DM),Type 1 Diabetes,Failed,FALSE,10,II,67,400 mg QD,NCT01781975
+"AML, Repalpsed or Refractory",Repeat Disease,Failed,FALSE,5,II,38,400 mg BID,NCT00955916
+Lymphangioleiomyomatosis (LAM),Lymphangioleiomyomatosis,Failed,FALSE,10,I/II,18,400 mg QD,NCT03131999
+Recurrent or Metastatic Head and Neck Squamous Cell Cancer,Head and Neck Squamous Cell Carcinoma,Failed,FALSE,5,II,7,400 mg QD,NCT00485485
+Recurrent or Persistent Uterine Cancer,Uterine Sarcoma,Failed,FALSE,4,II,26,400 mg BID,NCT00075400
+Metastatic Gastric Cancer,Gastric Cancer,Failed,FALSE,24.3,II,17,400 mg BID,NCT00068380
+Intraluminal Pulmonary Vein Stenosis (PVS),Pulmonary Vein Stenosis,Ongoing,FALSE,5,I/II,50,340 mg/m2 QD,NCT00891527
+Hormone-Refractory/Androgen-Independent Prostate Cancer,Repeat Disease,Failed,FALSE,11.68,II,49,400 mg QD,NCT00251225
+Metastatic Colorectal Cancer,Colorectal Cancer,Failed,FALSE,0.3,I/II,10,300 mg QD,NCT00867334
+Newly Diagnosed Acute Myeloid Leukemia,Acute Myeloid Leukemia,Failed,FALSE,5,II,32,600 mg QD,NCT00509093

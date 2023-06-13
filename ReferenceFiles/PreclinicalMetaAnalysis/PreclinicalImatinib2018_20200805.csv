@@ -1,0 +1,75 @@
+PMID,Author Date,Drug,Concentration nM,Study of Synergy,PK Addressed
+29048560,"Olmez, Jan 22",Imatinib,0.033,,No
+29128554,"Marinelli Busilacchi, Feb 1",Imatinib,0.28,,Uncorrected
+28902634,"Karaaslan, Feb 23",Imatinib,9.6,No,No
+29246941,"Vitiello, Feb 15",Imatinib,16.34,,No
+29277715,,Imatinib,25,,Uncorrected
+29518678,"Almeida, April",imatinib,50,Yes,No
+29467128,"Zhang, April",imatinib,100,Yes,No
+29494307,,Imatinib,100,,No
+29507530,,Imatinib,100,,No
+29530925,,Imatinib,100,,No
+29695605,,Imatinib,110,,No
+29707241,,Imatinib,117,,No
+29730267,,Imatinib,145.6,,No
+29670043,"Cortese, April 18",imatinib,150,Yes,No
+29740484,,Imatinib,150,,No
+29219946,"Fan, April 2018",Imatinib,200,,No
+29786668,"Shen, May 22",Imatinib,200,,No
+29807053,,Imatinib,200,,No
+29809305,,Imatinib,200,,No
+29867576,,Imatinib,220,,Uncorrected
+29915281,,Imatinib,250,,No
+29925527,,Imatinib,250,,Uncorrected
+29966986,,Imatinib,300,Yes,No
+30034943,,Imatinib,380,,No
+30068368,,Imatinib,380,,No
+30142322,"Bermejo, Oct",Imatinib,500,,Uncorrected
+29485707,"Chorzalska, Feb 27",imatinib,1000,Yes,No
+29568367,"Eadie, Feb 3",imatinib,1000,Yes,Uncorrected
+29972336,"Negi, Aug 14",Imatinib,1000,Yes,No
+30108942,"Shen, Feb 1",imatinib,1000,No,No
+30154435,,Imatinib,1000,,No
+30193324,,Imatinib,1000,,No
+30205168,,Imatinib,1000,Yes,No
+30240612,,Imatinib,1000,,No
+30245209,,Imatinib,1000,,No
+30248347,,Imatinib,1000,Yes,No
+30273596,"Harrach, Sept 28",Imatinib,1000,,No
+30326595,,Imatinib,1000,,No
+30333571,,Imatinib,1000,,No
+30344924,"Aoto, Sep 25",Imatinib,1000,,No
+30569109,"Jung, December 19",Imatinib,1000,,No
+30605651,"Cardoso, Dec 31",Imatinib,1000,,No
+29741440,"Gover-Proaktor, May 9",Imatinib,2000,,Uncorrected
+29932782,"Podszywalow-Bartnicka, June 22 (EPub)",Imatinib,2000,Yes,No
+30705677,"Chang, 2018",Imatinib,2000,,No
+30101525,"Thijssem, Oct 30",Imatinib,2500,,No
+30290167,"Xin Li, Dec 1",Imatinib,3600,Yes,No
+29177615,"Uemura, 2018",Imatinib,3849,,No
+30500954,"Debaize, Nov 30",Imatinib,4000,,No
+31024831,"Cao, Apr 3 2019",Imatinib,4000,Yes,No
+29386476,"Ciftci, Jan 30",imatinib,4200,No,No
+30142229,"Hui-Jen Tsai, Sep 21",Imatinib,4300,,No
+29061656,"Ferguson, Jan",Imatinib,5000,Yes,No
+29115640,"Kroschwald, Jan",Imatinib,5000,,No
+30405627,"Damele, Oct 23",Imatinib,5000,,Uncorrected
+29298654,"Ozkan, 2018",Imatinib,5000,Yes,No
+29197029,"Zakhari, 2018",Imatinib,9300,,No
+29957833,"Yang, Jul 28",Imatinib,10000,,No
+30017934,"Oluwaseun, Sep 15",Imatinib,10000,Yes,No
+30045750,"Monteleone, Jul 25",Imatinib,10000,Yes,No
+30086285,"Zhang, Aug 4",imatinib,10000,,Corrected
+30165626,"Yixian, Sep 1",imatinib,10000,,No
+30180991,"Zhu, Sep 1",imatinib,10000,,No
+30237472,"Bildik, Sep 20",imatinib,10000,,No
+29966518,"Olof Olsson, Jul 2",Imatinib,10500,,No
+31849454,"Pantazi, Dec 12",imatinib,13300,No,No
+30247803,"Podszywalow-Bartnicka, Sep 3",Imatinib,20000,,No
+29615094,"Njouendou, April 4",imatinib,20260,,Uncorrected
+29165716,"Mitchell, Nov 20",imatinib,50000,,No
+31118708,"Lin, Apr 30 2019",Imatinib,61300,No,Uncorrected
+31447858,"Marrella, Aug 9 2019",Imatinib,121555,No,No
+31737578,"Moslehi, 2019",Imatinib,202592,Yes,No
+29374195,"Hassan, Jan 26",imatinib,12520000,Yes,No
+28425854,"Ahsan, 2018",Imatinib,10000,,No

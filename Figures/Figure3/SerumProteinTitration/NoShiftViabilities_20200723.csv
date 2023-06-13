@@ -1,0 +1,8 @@
+condition,no shift viability
+Bosutinib_160nM,0.3
+Bosutinib_80nM,13
+Imatinib_350nM,15
+Imatinib_700nM,0.3
+Nilotinib_25nM,20
+Nilotinib_50nM,2.8
+No_Drug,100

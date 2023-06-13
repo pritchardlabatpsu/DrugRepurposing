@@ -1,0 +1,7 @@
+Approved,Status,N
+TRUE,Successful,1
+TRUE,Failed,0
+TRUE,Ongoing,0
+FALSE,Successful,0
+FALSE,Failed,19
+FALSE,Ongoing,4

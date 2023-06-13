@@ -1,0 +1,13 @@
+name: SerumShiftCalculator
+title: SerumShiftCalculator
+username:
+account: smleighow
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9239018
+bundleId: 7340406
+url: https://smleighow.shinyapps.io/SerumShiftCalculator/
+when: 1686677942.70591
+lastSyncTime: 1686677942.70592
+asMultiple: FALSE
+asStatic: FALSE
