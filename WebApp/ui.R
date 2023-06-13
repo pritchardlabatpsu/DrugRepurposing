@@ -28,7 +28,7 @@ ui = fluidPage(
              <li><strong>Replicate</strong>: Numeric indicating experimental replicate.</li>
              <li><strong>Assay value</strong>: Numeric indicating assay value (e.g. relative viability normalized to vehicle control).</li>
              </ol>")),
-      p(HTML("Exmaple data can be downloaded <a href='https://github.com/pritchardlabatpsu/DrugRepurposing/blob/main/WebAppSampleData.csv'><b>here</b></a>.")),
+      p(HTML("Exmaple data can be downloaded <a href='https://github.com/pritchardlabatpsu/DrugRepurposing/blob/main/WebApp/WebAppSampleData.csv'><b>here</b></a>.")),
       
       # Input: dose response data
       fileInput(inputId = "dr_data",
@@ -81,7 +81,7 @@ ui = fluidPage(
                    Before using the app, conduct a dose-response assay in the presence and absence of human serum proteins, as in Liu et al.
                    Normalize the readout of the assay to the vehicle control for both conditions, and format the data in tidy format
                    (i.e. each row contains information for a single observation.) A description of the input file format is provided in the side panel,
-                   and sample data can be downloaded <a href='https://github.com/pritchardlabatpsu/DrugRepurposing/blob/main/WebAppSampleData.csv'><b>here</b></a>.")),
+                   and sample data can be downloaded <a href='https://github.com/pritchardlabatpsu/DrugRepurposing/blob/main/WebApp/WebAppSampleData.csv'><b>here</b></a>.")),
                  h3("App Details"),
                  p("The app fits a 4 parameter logistic curve for each of the two conditions (with and without human serum proteins). 
                    The addition of serum should shift the dose response curve rightwards, as below."),
